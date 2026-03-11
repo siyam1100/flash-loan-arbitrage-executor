@@ -1,0 +1,9 @@
+{
+  "name": "flash-loan-arbitrage-executor",
+  "version": "1.0.0",
+  "description": "Flash loan execution contract for DeFi arbitrage",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@aave/core-v3": "^1.18.0"
+  }
+}
